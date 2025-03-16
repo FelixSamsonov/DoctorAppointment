@@ -44,3 +44,4 @@ C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.pdb
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.genruntimeconfig.cache
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\ref\DoctorAppointmentDemo.UI.dll
+C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.sourcelink.json

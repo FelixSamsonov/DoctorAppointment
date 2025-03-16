@@ -3,40 +3,39 @@ using MyDoctorAppointment.Data.Repositories;
 using MyDoctorAppointment.Domain.Entities;
 using MyDoctorAppointment.Service.Interfaces;
 
-namespace MyDoctorAppointment.Service.Services
+namespace MyDoctorAppointment.Service.Services;
+
+public class DoctorService : IDoctorService
 {
-    public class DoctorService : IDoctorService
+    private readonly IDoctorRepository _doctorRepository;
+
+    public DoctorService()
     {
-        private readonly IDoctorRepository _doctorRepository;
+        _doctorRepository = new DoctorRepository();
+    }
 
-        public DoctorService()
-        {
-            _doctorRepository = new DoctorRepository();
-        }
+    public Doctor Create(Doctor doctor)
+    {
+        return _doctorRepository.Create(doctor);
+    }
 
-        public Doctor Create(Doctor doctor)
-        {
-            return _doctorRepository.Create(doctor);
-        }
+    public bool Delete(int id)
+    {
+        return _doctorRepository.Delete(id);
+    }
 
-        public bool Delete(int id)
-        {
-            return _doctorRepository.Delete(id);
-        }
+    public Doctor? Get(int id)
+    {
+        return _doctorRepository.GetById(id);
+    }
 
-        public Doctor? Get(int id)
-        {
-            return _doctorRepository.GetById(id);
-        }
+    public IEnumerable<Doctor> GetAll()
+    {
+        return _doctorRepository.GetAll();
+    }
 
-        public IEnumerable<Doctor> GetAll()
-        {
-            return _doctorRepository.GetAll();
-        }
-
-        public Doctor Update(int id, Doctor doctor)
-        {
-            return _doctorRepository.Update(id, doctor);
-        }
+    public Doctor Update(int id, Doctor doctor)
+    {
+        return _doctorRepository.Update(id, doctor);
     }
 }

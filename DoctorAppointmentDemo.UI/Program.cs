@@ -56,6 +56,7 @@ namespace MyDoctorAppointment
         {
             var doctorAppointment = new DoctorAppointment();
             doctorAppointment.Menu();
+
         }
     }
 }

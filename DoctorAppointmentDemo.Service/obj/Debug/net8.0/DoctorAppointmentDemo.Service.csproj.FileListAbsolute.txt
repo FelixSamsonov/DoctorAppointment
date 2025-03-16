@@ -32,3 +32,4 @@ C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Service\obj\
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Service\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Service.dll
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.pdb
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Service\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Service.dll
+C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.sourcelink.json

@@ -20,3 +20,4 @@ C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\D
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Domain.dll
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll
+C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.sourcelink.json
