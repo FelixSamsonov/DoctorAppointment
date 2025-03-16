@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhA1gIh5XJA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Herman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
