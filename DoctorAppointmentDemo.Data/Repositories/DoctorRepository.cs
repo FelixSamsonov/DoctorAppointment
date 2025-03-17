@@ -20,8 +20,6 @@ namespace MyDoctorAppointment.Data.Repositories
 
         public override void ShowInfo(Doctor doctor)
         {
-            Console.WriteLine($"Doctor: {doctor.Name}, {doctor.Surname};\n Experience: {doctor.Experience};\n Salary: {doctor.Salary};\n" +
-                    $" Phone: {doctor.Phone};\n" + $"Email: {doctor.Email};\n  Type: {doctor.DoctorType}");
         }
 
         protected override void SaveLastId()
