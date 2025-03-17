@@ -81,13 +81,17 @@ class DoctorAppointmentView
                 Console.WriteLine("3 - DentalDisease");
                 Console.WriteLine("4 - SkinDisease");
                 Console.WriteLine("5 - Ambulance");
-                string inputPatientIllnes = Console.ReadLine();
-                if (!Enum.TryParse(inputPatientIllnes, out IllnessTypes patientIllness))
+                while (true)
                 {
-                    Console.WriteLine("Invalid choice, try again.");
+                    string inputPatientIllnes = Console.ReadLine();
+                    if (!Enum.TryParse(inputPatientIllnes, out IllnessTypes patientIllness))
+                    {
+                        Console.WriteLine("Invalid choice, try again.");
+                        continue;
+                    }
+                    appointment.Patient.IllnessType = patientIllness;
                     break;
                 }
-                appointment.Patient.IllnessType = patientIllness;
                 _patientService.Create(appointment.Patient);
                 while (true)
                 {
@@ -132,11 +136,12 @@ class DoctorAppointmentView
                     if (endDateTime <= startDateTime)
                     {
                         Console.WriteLine("End time must be after start time.");
-                        break;
+                        continue;
                     }
 
                     appointment.DateTimeFrom = startDateTime;
                     appointment.DateTimeTo = endDateTime;
+                    break;
                 }
                 _appointmentService.Create(appointment);
                 Console.WriteLine("New appointment created.");
