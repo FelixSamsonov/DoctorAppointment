@@ -1,1 +1,98 @@
-﻿
+[
+  {
+    "IllnessType": 3,
+    "AdditionalInfo": null,
+    "Address": "Beresteiska 25",
+    "Name": "Kateryna",
+    "Surname": "Salan",
+    "Phone": "0568993548",
+    "Email": null,
+    "Id": 1,
+    "CreatedAt": "2025-03-17T07:31:16.2914529+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 4,
+    "AdditionalInfo": null,
+    "Address": "Voronogo 15",
+    "Name": "Oleksyi",
+    "Surname": "Kravchenko",
+    "Phone": null,
+    "Email": null,
+    "Id": 2,
+    "CreatedAt": "2025-03-17T07:44:52.874006+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 3,
+    "AdditionalInfo": null,
+    "Address": "Ivasyuka 23",
+    "Name": "Iryna",
+    "Surname": "Nefedova",
+    "Phone": "0732689741",
+    "Email": "",
+    "Id": 3,
+    "CreatedAt": "2025-03-17T14:54:14.7597737+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 3,
+    "AdditionalInfo": null,
+    "Address": "Sosyury 85",
+    "Name": "Iryna",
+    "Surname": "Nefedova",
+    "Phone": "0987456321",
+    "Email": "",
+    "Id": 4,
+    "CreatedAt": "2025-03-17T14:57:17.7011283+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 5,
+    "AdditionalInfo": null,
+    "Address": "",
+    "Name": "Stepan",
+    "Surname": "Kuts",
+    "Phone": "",
+    "Email": "",
+    "Id": 5,
+    "CreatedAt": "2025-03-17T15:19:05.6130687+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 6,
+    "AdditionalInfo": null,
+    "Address": "",
+    "Name": "dggdge",
+    "Surname": "gerg",
+    "Phone": "",
+    "Email": "",
+    "Id": 6,
+    "CreatedAt": "2025-03-17T15:25:31.0107139+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 2,
+    "AdditionalInfo": null,
+    "Address": "",
+    "Name": "Mark",
+    "Surname": "Mink",
+    "Phone": "",
+    "Email": "",
+    "Id": 7,
+    "CreatedAt": "2025-03-17T16:08:26.5665746+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 4,
+    "AdditionalInfo": null,
+    "Address": "",
+    "Name": "sfsf",
+    "Surname": "sfsdfr",
+    "Phone": "",
+    "Email": "",
+    "Id": 8,
+    "CreatedAt": "2025-03-17T16:09:35.9008771+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

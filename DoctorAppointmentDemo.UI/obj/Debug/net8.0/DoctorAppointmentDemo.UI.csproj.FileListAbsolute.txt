@@ -45,3 +45,7 @@ C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.genruntimeconfig.cache
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\ref\DoctorAppointmentDemo.UI.dll
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.sourcelink.json
+C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\MockedDatabase\appointments.json
+C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\MockedDatabase\doctors.json
+C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\MockedDatabase\patients.json
+C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\Configuration\appsettings.json

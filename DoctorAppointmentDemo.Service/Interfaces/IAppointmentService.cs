@@ -5,18 +5,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DoctorAppointmentDemo.Service.Interfaces
+namespace DoctorAppointmentDemo.Service.Interfaces;
+
+public interface IAppointmentService
 {
-    interface IAppointmentService
-    {
-        Appointment Create(Appointment appointment);
+    Appointment Create(Appointment appointment);
 
-        IEnumerable<Appointment> GetAll();
+    IEnumerable<Appointment> GetAll();
 
-        Appointment? Get(int id);
+    Appointment? Get(int id);
 
-        bool Delete(int id);
+    bool Delete(int id);
 
-        Appointment Update(int id, Appointment appointment);
-    }
+    Appointment Update(int id, Appointment appointment);
 }

@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8D59DC-3A97-4023-BBC5-11689741EABD}|DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj|c:\\users\\herman\\desktop\\doctorappointmentdemo\\doctorappointmentdemo.ui\\doctorappointmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8D59DC-3A97-4023-BBC5-11689741EABD}|DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj|solutionrelative:doctorappointmentdemo.ui\\doctorappointmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8D59DC-3A97-4023-BBC5-11689741EABD}|DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj|c:\\users\\herman\\desktop\\doctorappointmentdemo\\doctorappointmentdemo.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8D59DC-3A97-4023-BBC5-11689741EABD}|DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj|solutionrelative:doctorappointmentdemo.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +59,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorAppointmentView.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentView.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.UI\\DoctorAppointmentView.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentView.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.UI\\DoctorAppointmentView.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAswIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:56.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\Program.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:50:31.731Z",
+              "EditorCaption": ""
             }
           ]
         }
