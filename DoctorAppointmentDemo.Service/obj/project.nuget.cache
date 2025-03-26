@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ymZUgTAYO/w=",
+  "dgSpecHash": "DcnJQSi371w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+  "projectFilePath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Herman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

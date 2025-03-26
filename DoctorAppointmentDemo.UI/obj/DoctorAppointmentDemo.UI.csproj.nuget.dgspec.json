@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj": {}
+    "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {
+    "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
         "projectName": "DoctorAppointmentDemo.Data",
-        "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+        "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
         "packagesPath": "C:\\Users\\Herman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\obj\\",
+        "outputPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
-                "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj"
+              "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
+    "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
         "projectName": "DoctorAppointmentDemo.Domain",
-        "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
+        "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
         "packagesPath": "C:\\Users\\Herman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj": {
+    "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
         "projectName": "DoctorAppointmentDemo.Service",
-        "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+        "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
         "packagesPath": "C:\\Users\\Herman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\obj\\",
+        "outputPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,11 +172,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {
-                "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj"
+              "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {
+                "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj"
               },
-              "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
-                "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj"
+              "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj"
               }
             }
           }
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj": {
+    "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
+        "projectUniqueName": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
         "projectName": "DoctorAppointmentDemo.UI",
-        "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
+        "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj",
         "packagesPath": "C:\\Users\\Herman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.UI\\obj\\",
+        "outputPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -244,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj": {
-                "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj"
+              "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj": {
+                "projectPath": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj"
               }
             }
           }

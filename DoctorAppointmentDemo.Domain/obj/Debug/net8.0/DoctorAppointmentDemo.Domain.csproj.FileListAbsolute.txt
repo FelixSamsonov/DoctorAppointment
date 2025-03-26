@@ -21,3 +21,15 @@ C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\D
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll
 C:\Users\Herman\Desktop\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.sourcelink.json
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.deps.json
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfo.cs
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.sourcelink.json
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Domain.dll
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\Herman\Desktop\DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll
