@@ -82,5 +82,17 @@
     "Id": 7,
     "CreatedAt": "2025-03-17T16:08:26.5665746+02:00",
     "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "IllnessType": 4,
+    "AdditionalInfo": null,
+    "Address": "",
+    "Name": "sfsf",
+    "Surname": "sfsdfr",
+    "Phone": "",
+    "Email": "",
+    "Id": 8,
+    "CreatedAt": "2025-03-17T16:09:35.9008771+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
   }
 ]
