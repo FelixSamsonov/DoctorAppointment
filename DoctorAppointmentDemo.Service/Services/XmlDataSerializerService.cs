@@ -1,25 +1,13 @@
 ﻿using DoctorAppointmentDemo.Data.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using DoctorAppointmentDemo.Service.ViewModels;
+using MyDoctorAppointment.Data.Interfaces;
+using MyDoctorAppointment.Domain.Entities;
 using System.Xml.Serialization;
 
-namespace DoctorAppointmentDemo.Service.Services
+namespace MyDoctorAppointment.Service.Services
 {
     public class XmlDataSerializerService : ISerializationService
     {
-        public T Deserialize<T>(string path)
-        {
-            XmlSerializer serializer = new XmlSerializer(typeof(T));
-
-            using (FileStream stream = new FileStream(path, FileMode.OpenOrCreate))
-            {
-                return (T)serializer.Deserialize(stream);
-            }
-        }
-
         public void Serialize<T>(string path, T data)
         {
             XmlSerializer formatter = new XmlSerializer(typeof(T));
@@ -29,5 +17,18 @@ namespace DoctorAppointmentDemo.Service.Services
                 formatter.Serialize(fs, data);
             }
         }
+
+
+
+        public T Deserialize<T>(string path)
+        {
+            XmlSerializer? serializer = new XmlSerializer(typeof(T));
+
+            using (FileStream stream = new FileStream(path, FileMode.OpenOrCreate))
+            {
+                return (T)serializer.Deserialize(stream);
+            }
+        }
+
     }
 }

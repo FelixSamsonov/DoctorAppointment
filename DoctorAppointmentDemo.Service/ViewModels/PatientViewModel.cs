@@ -1,5 +1,4 @@
-﻿using MyDoctorAppointment.Domain.Entities;
-using MyDoctorAppointment.Domain.Enums;
+﻿using MyDoctorAppointment.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,23 +8,18 @@ using System.Xml.Serialization;
 
 namespace DoctorAppointmentDemo.Service.ViewModels
 {
-
-    public class DoctorViewModel
+    public class PatientViewModel
     {
         public string Name { get; set; } = string.Empty;
         public string Surname { get; set; } = string.Empty;
         public string? Phone { get; set; }
         public string? Email { get; set; }
-        public string? DoctorType { get; set; }
-        public byte Experience { get; set; }
-        public decimal Salary { get; set; }
+        public string? IllnessType { get; set; }
+        public string? Address { get; set; }
     }
-
-    public class DoctorList
+    public class PatientList
     {
-        [XmlElement("Doctor")] 
-        public List<DoctorViewModel> Doctors { get; set; }
+        [XmlElement("Patient")]
+        public List<PatientViewModel> Patients { get; set; }
     }
-
 }
-

@@ -48,6 +48,59 @@ namespace DoctorAppointmentDemo.Service.Extensions
                 Salary = doctor.Salary
             };
         }
+        public static PatientViewModel ConvertTo(this Patient patient)
+        {
+            if (patient == null)
+                return null;
+
+            string illnessType;
+
+            switch (patient.IllnessType)
+            {
+                case IllnessTypes.EyeDisease:
+                    illnessType = "EyeDisease";
+                    break;
+                case IllnessTypes.DentalDisease:
+                    illnessType = "DentalDisease";
+                    break;
+                case IllnessTypes.SkinDisease:
+                    illnessType = "SkinDisease";
+                    break;
+                case IllnessTypes.Infection:
+                    illnessType = "Infection";
+                    break;
+                case IllnessTypes.Ambulance:
+                    illnessType = "Ambulance";
+                    break;
+                default:
+                    illnessType = "Unknown";
+                    break;
+            }
+
+            return new PatientViewModel()
+            {
+                Name = patient.Name,
+                Surname = patient.Surname,
+                Phone = patient.Phone,
+                Email = patient.Email,
+                IllnessType = illnessType,
+                Address = patient.Address,
+            };
+        }
+        public static AppointmentViewModel ConvertTo(this Appointment appointment)
+        {
+            if (appointment == null)
+                return null;
+
+            return new AppointmentViewModel()
+            {
+                Patient = appointment.Patient,
+                Doctor = appointment.Doctor,
+                DateTimeFrom = appointment.DateTimeFrom,
+                DateTimeTo = appointment.DateTimeTo,
+                Description = appointment.Description,
+            };
+        }
     }
 }
 

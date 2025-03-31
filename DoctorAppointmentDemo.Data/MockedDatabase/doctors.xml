@@ -1,15 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfDoctor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<Doctor>
-	<DoctorType>3</DoctorType>
-	<Experience>15</Experience>
-	<Salary>0.0</Salary>
-	<Name>Vasya</Name>
-	<Surname>Petrov</Surname>
-	<Phone />
-	<Email />
-	<Id>2</Id>
-	<CreatedAt>2023-09-10T12:53:21.8815896+03:00</CreatedAt>
-	<UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
-</Doctor>
+  <Doctor>
+    <Id>0</Id>
+    <CreatedAt>0001-01-01T00:00:00</CreatedAt>
+    <UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Phone>123456789</Phone>
+    <Email>john.doe@example.com</Email>
+    <DoctorType>Dentist</DoctorType>
+    <Experience>10</Experience>
+    <Salary>50000</Salary>
+  </Doctor>
+  <Doctor>
+    <Id>0</Id>
+    <CreatedAt>0001-01-01T00:00:00</CreatedAt>
+    <UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+    <Name>Jane</Name>
+    <Surname>Smith</Surname>
+    <Phone>987654321</Phone>
+    <Email>jane.smith@example.com</Email>
+    <DoctorType>Dermatologist</DoctorType>
+    <Experience>8</Experience>
+    <Salary>60000</Salary>
+  </Doctor>
+  <Doctor>
+    <Id>7</Id>
+    <CreatedAt>2025-03-30T19:45:42.5383335+03:00</CreatedAt>
+    <UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+    <Name>Vasya</Name>
+    <Surname>Petrov</Surname>
+    <DoctorType>Dentist</DoctorType>
+    <Experience>20</Experience>
+    <Salary>0</Salary>
+  </Doctor>
+  <Doctor>
+    <Id>8</Id>
+    <CreatedAt>2025-03-30T19:46:09.3447278+03:00</CreatedAt>
+    <UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+    <Name>Vasya</Name>
+    <Surname>Petrov</Surname>
+    <DoctorType>Dentist</DoctorType>
+    <Experience>20</Experience>
+    <Salary>0</Salary>
+  </Doctor>
+  <Doctor>
+    <Id>9</Id>
+    <CreatedAt>2025-03-30T20:06:54.2474673+03:00</CreatedAt>
+    <UpdatedAt>0001-01-01T00:00:00</UpdatedAt>
+    <Name>Mark</Name>
+    <Surname>Kaft</Surname>
+    <Phone />
+    <Email />
+    <DoctorType>Dentist</DoctorType>
+    <Experience>12</Experience>
+    <Salary>35000</Salary>
+  </Doctor>
 </ArrayOfDoctor>

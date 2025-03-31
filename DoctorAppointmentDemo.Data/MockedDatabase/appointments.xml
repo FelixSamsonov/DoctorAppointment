@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfAppointment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Appointment>
+		<Patient>
+			<Name>John</Name>
+			<Surname>Doe</Surname>
+			<Phone>1234567890</Phone>
+			<Email>john.doe@example.com</Email>
+			<IllnessType>EyeDisease</IllnessType>
+			<Address>123 Main St, City, Country</Address>
+		</Patient>
+		<Doctor>
+			<Name>Dr. Sarah</Name>
+			<Surname>Smith</Surname>
+			<DoctorType>Dermatologist</DoctorType>
+			<Phone>9876543210</Phone>
+			<Email>sarah.smith@example.com</Email>
+		</Doctor>
+		<DateTimeFrom>2025-04-01T09:00:00</DateTimeFrom>
+		<DateTimeTo>2025-04-01T09:30:00</DateTimeTo>
+		<Description>Consultation for eye disease</Description>
+	</Appointment>
+	</ArrayOfAppointment>

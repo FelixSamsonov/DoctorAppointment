@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF8D59DC-3A97-4023-BBC5-11689741EABD}|DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj|c:\\users\\herman\\desktop\\doctorappointment\\doctorappointmentdemo.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8D59DC-3A97-4023-BBC5-11689741EABD}|DoctorAppointmentDemo.UI\\DoctorAppointmentDemo.UI.csproj|solutionrelative:doctorappointmentdemo.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025BC1F-DEC7-4B57-817B-B4DA841506CF}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|c:\\users\\herman\\desktop\\doctorappointment\\doctorappointmentdemo.service\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D025BC1F-DEC7-4B57-817B-B4DA841506CF}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025BC1F-DEC7-4B57-817B-B4DA841506CF}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|c:\\users\\herman\\desktop\\doctorappointment\\doctorappointmentdemo.service\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D025BC1F-DEC7-4B57-817B-B4DA841506CF}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025BC1F-DEC7-4B57-817B-B4DA841506CF}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|c:\\users\\herman\\desktop\\doctorappointment\\doctorappointmentdemo.service\\services\\xmldataserializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D025BC1F-DEC7-4B57-817B-B4DA841506CF}|DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj|solutionrelative:doctorappointmentdemo.service\\services\\xmldataserializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:37:27.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\Services\\PatientService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Services\\PatientService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:36:58.481Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -58,13 +96,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XmlDataSerializerService.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\Services\\XmlDataSerializerService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentDemo.Service\\Services\\XmlDataSerializerService.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.Service\\Services\\XmlDataSerializerService.cs",
+              "RelativeToolTip": "DoctorAppointmentDemo.Service\\Services\\XmlDataSerializerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:23:27.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.UI\\Program.cs",
               "RelativeDocumentMoniker": "DoctorAppointmentDemo.UI\\Program.cs",
               "ToolTip": "C:\\Users\\Herman\\Desktop\\DoctorAppointment\\DoctorAppointmentDemo.UI\\Program.cs",
               "RelativeToolTip": "DoctorAppointmentDemo.UI\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwD4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T16:09:06.327Z",
               "EditorCaption": ""

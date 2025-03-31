@@ -9,6 +9,7 @@ using MyDoctorAppointment.Service.Interfaces;
 namespace MyDoctorAppointment.Service.Services;
 
 public class DoctorService : IDoctorService
+
 {
     private readonly IDoctorRepository _doctorRepository;
 
@@ -32,10 +33,15 @@ public class DoctorService : IDoctorService
         return _doctorRepository.GetById(id);
     }
 
-    public IEnumerable<DoctorViewModel> GetAll()
+    public List<DoctorViewModel> GetAll()
     {
         var doctors = _doctorRepository.GetAll();
-        var doctorViewModels = doctors.Select(x => x.ConvertTo());
+        if (doctors == null || doctors.Count == 0)
+        {
+            return new List<DoctorViewModel>();
+        }
+
+        var doctorViewModels = doctors.Select(x => x.ConvertTo()).ToList();
         return doctorViewModels;
     }
 

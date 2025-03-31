@@ -1,4 +1,5 @@
-﻿using MyDoctorAppointment.Domain.Entities;
+﻿using DoctorAppointmentDemo.Service.ViewModels;
+using MyDoctorAppointment.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ public interface IAppointmentService
 {
     Appointment Create(Appointment appointment);
 
-    IEnumerable<Appointment> GetAll();
+    List<AppointmentViewModel> GetAll();
 
     Appointment? Get(int id);
 

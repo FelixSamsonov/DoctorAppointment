@@ -43,8 +43,8 @@
     "Surname": "Petrov",
     "Phone": null,
     "Email": null,
-    "Id": 13,
-    "CreatedAt": "2025-03-29T18:01:18.6673637+02:00",
+    "Id": 28,
+    "CreatedAt": "2025-03-30T18:56:59.4985771+03:00",
     "UpdatedAt": "0001-01-01T00:00:00"
   },
   {
@@ -55,8 +55,32 @@
     "Surname": "Petrov",
     "Phone": null,
     "Email": null,
-    "Id": 14,
-    "CreatedAt": "2025-03-29T18:09:11.2543982+02:00",
+    "Id": 29,
+    "CreatedAt": "2025-03-30T19:05:11.9583203+03:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 1,
+    "Experience": 20,
+    "Salary": 0.0,
+    "Name": "Vasya",
+    "Surname": "Petrov",
+    "Phone": null,
+    "Email": null,
+    "Id": 30,
+    "CreatedAt": "2025-03-30T19:46:02.1237912+03:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 3,
+    "Experience": 23,
+    "Salary": 45000.0,
+    "Name": "Olena",
+    "Surname": "Kavr",
+    "Phone": "",
+    "Email": "",
+    "Id": 31,
+    "CreatedAt": "2025-03-30T20:08:13.7893476+03:00",
     "UpdatedAt": "0001-01-01T00:00:00"
   }
 ]

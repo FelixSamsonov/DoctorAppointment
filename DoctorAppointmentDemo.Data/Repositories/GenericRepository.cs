@@ -41,9 +41,9 @@ public abstract class GenericRepository<TSource> : IGenericRepository<TSource> w
         return true;
     }
 
-    public IEnumerable<TSource> GetAll()
+    public List <TSource> GetAll()
     {
-        return SerializationService.Deserialize<IEnumerable<TSource>>(Path);
+        return SerializationService.Deserialize<List<TSource>>(Path);
     }
 
     public TSource? GetById(int id)
