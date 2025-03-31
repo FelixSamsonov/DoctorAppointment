@@ -268,7 +268,7 @@ public static class Program
             }
             else
             {
-                Console.WriteLine("Wrong choice.");
+                Console.WriteLine("Wrong choice");
                 choice = Console.ReadLine();
             }
         }

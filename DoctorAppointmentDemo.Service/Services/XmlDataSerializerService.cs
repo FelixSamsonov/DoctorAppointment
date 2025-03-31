@@ -17,9 +17,6 @@ namespace MyDoctorAppointment.Service.Services
                 formatter.Serialize(fs, data);
             }
         }
-
-
-
         public T Deserialize<T>(string path)
         {
             XmlSerializer? serializer = new XmlSerializer(typeof(T));
